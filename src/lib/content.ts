@@ -19,7 +19,7 @@ export const CONTENT = {
   // ----- ファーストビュー -----
   hero: {
     bgImage: "/images/hero-bg.jpg",
-    title: "あなたに合う資産づくりの\n始め方を、ここから。",
+    title: "あなたに合う\n資産づくりの\n始め方を、ここから。",
     subtitle: "診断結果のつづきから見えてくる、無理なく始める最初の一歩",
     ctaText: "このガイドを読む",
   },
